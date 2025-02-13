@@ -1,5 +1,5 @@
 # Meihan-Projects
-## Predicting Diabetes: An Exploration  
+## Predicting Diabetes
 - Built a machine learning pipeline using **SMOTE** and **Random Forest** to predict diabetes with **92% accuracy**.  
 - Analyzed correlations among **health and socioeconomic factors**, uncovering their impact on diabetes prevalence and highlighting the importance of diverse datasets.  
 - Identified **high blood pressure, general health, BMI, and age** as the most important predictors.  
